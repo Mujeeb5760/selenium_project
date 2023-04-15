@@ -17,3 +17,4 @@ while True:
     last_scroll_height = new_scroll_height
 
 driver.quit()
+
